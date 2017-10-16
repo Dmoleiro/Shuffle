@@ -1,0 +1,22 @@
+{
+  // JSCS configuration
+  // See http://jscs.info/overview for more details
+
+  "preset": "google",
+  "validateIndentation": false,
+  "validateQuoteMarks": "'",
+  "requireMultipleVarDecl": false,
+  "disallowMultipleVarDecl": true,
+  "requireCamelCaseOrUpperCaseIdentifiers" : true,
+  "requireCapitalizedConstructors": true,
+  "maximumLineLength": 300,
+  "disallowSpaceBeforeComma": true,
+  "disallowSpaceBeforeSemicolon": true,
+  "requireSpaceBeforeBlockStatements": true,
+  "requireSpacesInConditionalExpression": true,
+  "requireSpaceBeforeBinaryOperators": true,
+  "requireSpaceAfterBinaryOperators": true,
+  "requireSpacesInForStatement": true,
+  "requireSpaceBetweenArguments": true,
+  "disallowTrailingWhitespace": "ignoreEmptyLines"
+}
